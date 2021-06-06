@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biscoito-da-sorte/static/css/main.7aa41b80.chunk.css",
+    "main.js": "/biscoito-da-sorte/static/js/main.d2de4f31.chunk.js",
+    "main.js.map": "/biscoito-da-sorte/static/js/main.d2de4f31.chunk.js.map",
+    "runtime-main.js": "/biscoito-da-sorte/static/js/runtime-main.a23718b6.js",
+    "runtime-main.js.map": "/biscoito-da-sorte/static/js/runtime-main.a23718b6.js.map",
+    "static/js/2.6a9537e2.chunk.js": "/biscoito-da-sorte/static/js/2.6a9537e2.chunk.js",
+    "static/js/2.6a9537e2.chunk.js.map": "/biscoito-da-sorte/static/js/2.6a9537e2.chunk.js.map",
+    "static/js/3.0a9cbccd.chunk.js": "/biscoito-da-sorte/static/js/3.0a9cbccd.chunk.js",
+    "static/js/3.0a9cbccd.chunk.js.map": "/biscoito-da-sorte/static/js/3.0a9cbccd.chunk.js.map",
+    "index.html": "/biscoito-da-sorte/index.html",
+    "static/css/main.7aa41b80.chunk.css.map": "/biscoito-da-sorte/static/css/main.7aa41b80.chunk.css.map",
+    "static/js/2.6a9537e2.chunk.js.LICENSE.txt": "/biscoito-da-sorte/static/js/2.6a9537e2.chunk.js.LICENSE.txt",
+    "static/media/biscoito.10574f4a.png": "/biscoito-da-sorte/static/media/biscoito.10574f4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23718b6.js",
+    "static/js/2.6a9537e2.chunk.js",
+    "static/css/main.7aa41b80.chunk.css",
+    "static/js/main.d2de4f31.chunk.js"
+  ]
+}
